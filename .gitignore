@@ -1,0 +1,7 @@
+# C 컴파일 결과물 (확장자 없는 실행 파일 포함)
+/linearAlgebra[0-9]*_2week
+/a.out
+*.exe
+*.o
+*.obj
+*.dSYM/
