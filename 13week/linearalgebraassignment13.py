@@ -87,7 +87,7 @@ print("u x v =", cross_product)
 print(f"넓이의 제곱 = {squared_length}")
 print(f"평행사변형의 넓이 = {area:.6f}")
 
-실습 3-2
+# 실습 3-2
 
 import numpy as np
 
